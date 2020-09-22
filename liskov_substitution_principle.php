@@ -58,10 +58,36 @@ interface Quadrilateral {
 
 class Rectangle2 implements Quadrilateral
 {
-    //class logic
+    public function setHeight($h)
+    {
+        // TODO: Implement setHeight() method.
+    }
+
+    public function setWidth($w)
+    {
+        // TODO: Implement setWidth() method.
+    }
+
+    public function getArea()
+    {
+        // TODO: Implement getArea() method.
+    }
 }
 
 class Square2 implements Quadrilateral
 {
-    //class logic
+    public function setHeight($h)
+    {
+        // TODO: Implement setHeight() method.
+    }
+
+    public function setWidth($w)
+    {
+        // TODO: Implement setWidth() method.
+    }
+
+    public function getArea()
+    {
+        // TODO: Implement getArea() method.
+    }
 }
